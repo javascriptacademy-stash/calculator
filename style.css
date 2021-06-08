@@ -1,0 +1,47 @@
+.clal{
+				width: 550px;
+				height: 750px;
+				background-color: black; 
+				margin-left: 200px;
+				margin-top: 300px;
+}
+.output{
+				
+}
+#screen{
+				width: 80%;
+				height: 80px;
+				margin-left: 60px;
+				margin-top: 80px;
+				font-size: 30px;
+}
+.button{
+padding-top: 10px;
+padding-left: 70px;
+				
+}
+.row{
+padding-top: 5px;
+		
+			 
+}
+.btn{
+				width: 100px;
+				height: 100px;
+				font-size: 50px;
+				
+}
+.btn1{
+				width:100px;
+				height: 100px;
+				font-size: 40px;
+				background-color: red;
+				border: none;
+}	
+.btn2{
+				width:100px;
+				height: 100px;
+				font-size: 50px;
+				background-color: skyblue;
+				border: none;
+}			
