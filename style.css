@@ -42,3 +42,6 @@
     color: white;
     transition: 0.5s ease-in-out;
 }
+.btn-exp {
+    background-color: #cccc;
+}
